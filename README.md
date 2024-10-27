@@ -3,7 +3,7 @@
 ## KELAS: TI.24.A.4
 
 ## MENENTUKAN NILAI AHKIR
-`PYTHON
+```PYTHON
 nama = input("Masukkan nama:")
 uts = input("Masukkan nilai UTS:")
 uas = input("Masukkan nilai UAS:")
